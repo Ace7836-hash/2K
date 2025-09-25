@@ -119,7 +119,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/GY1wfJRZ"))()
    end,
 })
 
-local SPAWNGUNTab = Window:CreateTab("SPAWN GUM", 125741791091388) -- Title, Image
+local SPAWNGUNTab = Window:CreateTab("SPAWN GUN", 125741791091388) -- Title, Image
 local Section = SPAWNGUNTab:CreateSection("BUY GUN")
 
 
